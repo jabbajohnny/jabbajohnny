@@ -1,5 +1,5 @@
 
-(https://github.com/jabbajohnny/jabbajohnny/blob/main/banerGITHUB.jpg)
+![img](/img.jpg)
 <!--
 **jabbajohnny/jabbajohnny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
